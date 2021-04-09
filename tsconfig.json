@@ -1,0 +1,12 @@
+﻿{
+    "compilerOptions": {
+        "target": "ES6",
+        "outFile": "app.js",
+        "lib": [ "ES6" ]
+    },
+    "references": [],
+    "exclude": [
+        "node_modules",
+        "wwwroot"
+    ]
+}
